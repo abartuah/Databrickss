@@ -33,4 +33,3 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'databricks'
     publishLocation: 'Container'
-
